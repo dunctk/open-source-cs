@@ -13,6 +13,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
+[Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell)| Glasgow | 6 weeks | 4 hours/week | self paced | none
 [Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
 [Java Programming: Arrays, Lists, and Structured Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
